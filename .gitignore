@@ -1,0 +1,7 @@
+.venv/
+.venv.tar.gz
+**/__pycache__/
+*.pyc
+app/data/*.txt
+app/a.parquet
+*.log
